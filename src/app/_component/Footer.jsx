@@ -41,7 +41,7 @@ export default function Footer() {
 
 
                 </div>
-                <div className='w-full mt-8 text-lg py-4 border-t border-black'>©Mech<span className='text-[var(--maincolor)]'>X</span> 2024 | All Rights Reserved | Design By Xcel B2B </div>
+                <div className='w-full mt-8 text-lg py-4 border-t border-black'>©Mech<span className='text-[var(--maincolor)]'>X</span> 2024 | All Rights Reserved </div>
             </Wrapper>
         </div>
     )
